@@ -1,5 +1,5 @@
 # 🩸 Blood Beach  
-**A haunted Web3 world built for the DCL Regenesis Labs Hackathon — where ghosts, cursed moons, and AI creativity collide.**
+**A haunted Web3 world built for the DCL Regenesis Labs Hackathon | Where ghosts, cursed moons, and AI creativity collide.**
 
 ---
 
