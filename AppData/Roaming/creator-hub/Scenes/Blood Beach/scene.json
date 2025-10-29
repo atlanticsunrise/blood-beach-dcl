@@ -1,0 +1,93 @@
+{
+  "ecs7": true,
+  "runtimeVersion": "7",
+  "display": {
+    "title": "Blood Beach",
+    "description": "Welcome to Blood Beach, a cursed stretch of coastline where the tide never forgets.\n\nA shattered pirate ship lies half-buried in the black sand, its ghostly crew eternally bound to the wreck. Wisps of spectral light drift from the sunken hull, trailing eerie moans on the salty wind. Bones litter the beach, some half-buried, some reaching toward the sky in eternal warning. ",
+    "favicon": "favicon_asset",
+    "navmapThumbnail": ""
+  },
+  "owner": "",
+  "contact": {
+    "name": "SDK",
+    "email": ""
+  },
+  "main": "bin/index.js",
+  "tags": [
+    "art"
+  ],
+  "scene": {
+    "parcels": [
+      "0,4",
+      "1,4",
+      "2,4",
+      "3,4",
+      "4,4",
+      "0,3",
+      "1,3",
+      "2,3",
+      "3,3",
+      "4,3",
+      "0,2",
+      "1,2",
+      "2,2",
+      "3,2",
+      "4,2",
+      "0,1",
+      "1,1",
+      "2,1",
+      "3,1",
+      "4,1",
+      "0,0",
+      "1,0",
+      "2,0",
+      "3,0",
+      "4,0"
+    ],
+    "base": "0,0"
+  },
+  "spawnPoints": [
+    {
+      "name": "Spawn Point 1",
+      "default": true,
+      "position": {
+        "x": [
+          0,
+          3
+        ],
+        "y": [
+          0,
+          0
+        ],
+        "z": [
+          0,
+          3
+        ]
+      },
+      "cameraTarget": {
+        "x": 8,
+        "y": 1,
+        "z": 8
+      }
+    }
+  ],
+  "requiredPermissions": [
+    "ALLOW_TO_TRIGGER_AVATAR_EMOTE",
+    "ALLOW_TO_MOVE_PLAYER_INSIDE_SCENE"
+  ],
+  "featureToggles": {
+    "voiceChat": "enabled",
+    "portableExperiences": "enabled"
+  },
+  "skyboxConfig": {
+    "fixedTime": 0
+  },
+  "source": {
+    "origin": "creator-hub",
+    "projectId": "70996dc5-f381-4feb-b929-43260b6b3f6e"
+  },
+  "rating": "T",
+  "worldConfiguration": {
+    "name": "atomicmango.dcl.eth"
+  }
+}
